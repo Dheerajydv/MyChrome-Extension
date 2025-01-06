@@ -1,0 +1,38 @@
+body {
+  height: 500px;
+  width: 500px;
+  background-color: aqua;
+}
+#heading {
+  width: full;
+  height: full;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+#hContainer {
+  background-color: rgb(223, 132, 132);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20%;
+  width: full;
+  font-style: italic;
+  font-weight: 700;
+}
+#quoteContainer {
+  background-color: azure;
+  height: full;
+  width: full;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 70%;
+}
+footer {
+  background-color: rgb(147, 115, 147);
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
